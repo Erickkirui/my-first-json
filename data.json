@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Erick Kirui",
+      "age": 20,
+      "rank": "pro"
+    },
+    {
+      "name": "Fransis",
+      "age": 21,
+      "rank": "noob",
+      "id": 2
+    }
+  ]
+}
